@@ -1,6 +1,7 @@
 # razumnyuk-dvaumnyuk-triumnyuk
 
 ## Guide
+
 ```bash
 python main.py
 ```
